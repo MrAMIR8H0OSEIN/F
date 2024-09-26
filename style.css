@@ -1,1 +1,42 @@
 @font-face {font-family: YekanBakh; src: url('fonts/yekan-bakh/Yekan-Bakh-FaNum-08-Fat.ttf') format('truetype');}
+  
+  @font-face {
+    font-family: iransans;
+    src: url('fonts/iransans/IRANSansWeb(FaNum)_UltraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url('fonts/iransans/IRANSansWeb(FaNum).woff2 format') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url('fonts/iransans/IRANSansWeb(FaNum)_Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url('fonts/iransans/IRANSansWeb(FaNum)_Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url('fonts/iransans/IRANSansWeb(FaNum)_Black.ttf') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  
